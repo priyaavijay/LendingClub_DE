@@ -1,5 +1,5 @@
 # Lending Club Data Engineering Project Using PySpark
-
+![Alt Text](https://github.com/priyaavijay/LendingClub_DE/blob/main/Workflow%20Diagram.png)
 
 # Overview
 
